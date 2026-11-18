@@ -4,22 +4,25 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Frontend Mentor - Article preview component solution](#frontend-mentor---article-preview-component-solution)
+	- [Table of contents](#table-of-contents)
+	- [Overview](#overview)
+		- [The challenge](#the-challenge)
+		- [Screenshot](#screenshot)
+		- [Links](#links)
+	- [My process](#my-process)
+		- [Built with](#built-with)
+		- [What I learned](#what-i-learned)
+		- [Continued development](#continued-development)
+		- [Useful resources](#useful-resources)
+		- [AI Collaboration](#ai-collaboration)
+	- [Author](#author)
+	- [Acknowledgments](#acknowledgments)
 
 ## Overview
+This challenge was to build an article preview card with a share button that opens a panel of social links. The social sharing functionality itself is not implemented, but the button toggles the panel’s visibility.
+
+The layout also needs to be responsive, including both the article preview card and the share panel’s layout and positioning. Button colors need to change to reflect active states, and the buttons must be keyboard-accessible.
 
 ### The challenge
 
